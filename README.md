@@ -1,4 +1,4 @@
-# Head First C Exercises Repository
+# :mortar_board: Head First C Exercises Repository
 
 Welcome to my Head First C Exercises Repository! This repository contains exercise files that I created from the book "Head First C" for learning the C programming language.
 
